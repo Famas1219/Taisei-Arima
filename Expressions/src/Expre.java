@@ -1,4 +1,4 @@
-public class Main {
+public class Expre {
     public static void main(String args[]){
 
 
@@ -9,6 +9,7 @@ public class Main {
         //expression 1
 
         System.out.println((9 - 4) + 10/2 - (4 - 8)/3);
+        System.out.println(11)
 
         //expression 2
 
