@@ -1,2 +1,0 @@
-# Taisei-Arima
-My first
