@@ -9,7 +9,8 @@ public class Expre {
         //expression 1
 
         System.out.println((9 - 4) + 10/2 - (4 - 8)/3);
-        System.out.println(11)
+        System.out.println(11);
+        System.out.ptintln(11);
 
         //expression 2
 
